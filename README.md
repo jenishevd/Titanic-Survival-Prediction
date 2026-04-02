@@ -151,13 +151,3 @@ submission.csv
 - Practical implementation of an end-to-end ML pipeline  
 
 ---
-
-## Notes
-
-- The pipeline is designed to be simple but correct  
-- Focus is on **clean ML workflow**, not over-engineering  
-- Easily extendable with:
-  - Feature engineering  
-  - Hyperparameter tuning  
-  - Additional models  # Titanic-Survival-Prediction
-# Titanic-Survival-Prediction
